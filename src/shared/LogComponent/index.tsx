@@ -6,7 +6,7 @@ export default function LogComponent(){
         <div className={style.logcomponent}>
             <input placeholder="Email"></input>
             <input placeholder="Password"></input>
-            <button type="submit">Login</button>
+            <button type="submit">register</button>
         </div>
         
         
